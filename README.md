@@ -1,7 +1,5 @@
 <h3 align="center">Software engineering student from Armenia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirkhanyan11" alt="amirkhanyan11" /></a> </p>
-
 - 📫 How to reach me **artyom.amirkhanyan11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
