@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/artyom-amirkhanyan-b951b52a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artyom-amirkhanyan-b951b52a7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25005985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25005985" height="30" width="40" /></a>
-<a href="https://instagram.com/amirkhanyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirkhanyan11" height="30" width="40" /></a>
+<a href="https://t.me/artyomamirkhanyan" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="amirkhanyan11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amirkhanyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amirkhanyan11" height="30" width="40" /></a>
 </p>
 
