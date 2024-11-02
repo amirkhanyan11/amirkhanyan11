@@ -1,4 +1,4 @@
-<h3 align="center">Software engineering student from Armenia</h3>
+<h3 align="center">Software Engineer from Armenia</h3>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
