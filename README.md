@@ -1,13 +1,12 @@
-<h3 align="center">Software Engineer from Armenia</h3>
+<!-- h3 align="center">Software Engineer from Armenia</h3>  -->
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/artyom-amirkhanyan-b951b52a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artyom-amirkhanyan-b951b52a7" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25005985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25005985" height="30" width="40" /></a>
-<a href="https://t.me/artyomamirkhanyan" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="amirkhanyan11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amirkhanyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amirkhanyan11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/artyom-amirkhanyan-b951b52a7" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="artyom-amirkhanyan-b951b52a7" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/25005985" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="25005985" height="40" width="40" /></a>
+<a href="https://t.me/artyomamirkhanyan" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="amirkhanyan11" height="40" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/amirkhanyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amirkhanyan11" height="30" width="40" /></a> -->
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,6 +16,8 @@
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="bash" width="40" height="40"/> </a>
+<a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="bash" width="40" height="40"/> </a>
+<a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="git" width="40" height="40"/> </a> 
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
