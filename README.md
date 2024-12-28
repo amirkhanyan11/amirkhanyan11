@@ -23,7 +23,7 @@
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> </a> 
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> </a> 
-<a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
 <!---<img align="right" height="150" src="https://media.tenor.com/4HkLW40pwKgAAAAi/patrick-patrick-star.gif"  /> --->
