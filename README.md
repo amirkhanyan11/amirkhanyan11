@@ -16,7 +16,7 @@
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="bash" width="40" height="40"/> </a>
-<a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="bash" width="40" height="40"/> </a>
+<a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="git" width="40" height="40"/> </a> 
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a>
