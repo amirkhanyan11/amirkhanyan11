@@ -22,6 +22,7 @@
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="bash" width="40" height="40"/> </a>
+ <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IPFS-Dark.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="git" width="40" height="40"/> </a> 
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a>
 <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="linux" style="border-radius: 30%;" width="40" height="40"/> </a> </p>
